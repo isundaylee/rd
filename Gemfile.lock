@@ -1,0 +1,14 @@
+GIT
+  remote: git://github.com/isundaylee/simple_cache.git
+  revision: 1c956fe52336f65fd89e42b09a3ea144bf11e2fc
+  specs:
+    simple_cache (0.0.1)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  simple_cache!
